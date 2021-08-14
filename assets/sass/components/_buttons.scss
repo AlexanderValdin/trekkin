@@ -1,0 +1,15 @@
+.button {
+    font-family: $raleway;
+    font-weight: 700;
+    color: $white !important;
+    background-color: $ball-blue;
+    border: none;
+    padding: .3rem 1.5rem;
+    margin: 0 10px;
+    font-size: $medium;
+    &--largo {
+        width: 100%;
+        margin: 0;
+        padding: 15px;
+    }
+}
